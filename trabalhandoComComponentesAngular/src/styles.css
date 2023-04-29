@@ -1,0 +1,11 @@
+/* Add application styles & imports to this file! */
+
+h1 {
+  color: blueviolet;
+}
+
+button {
+  padding: 10px;
+  cursor: pointer;
+  border-radius: 10px;
+}
